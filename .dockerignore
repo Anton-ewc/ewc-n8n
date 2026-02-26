@@ -1,0 +1,13 @@
+# Ignore everything first
+*
+
+# Then explicitly include what we need
+!package.json
+!package-lock.json
+!settings.js
+!copy-flows.sh
+!Dockerfile
+!flows.json
+!flows_cred.json
+!settings-mysql.js
+
